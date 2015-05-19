@@ -1,0 +1,19 @@
+c:\users\paweł\documents\visual studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Odczyt listy kontaktów\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\paweł\documents\visual studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Odczyt listy kontaktów\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\paweł\documents\visual studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Odczyt listy kontaktów\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\paweł\documents\visual studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Odczyt listy kontaktów\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\paweł\documents\visual studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Odczyt listy kontaktów\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\paweł\documents\visual studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Odczyt listy kontaktów\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\paweł\documents\visual studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Odczyt listy kontaktów\Bin\Debug\Odczyt listy kontaktów.dll
+c:\users\paweł\documents\visual studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Odczyt listy kontaktów\Bin\Debug\Odczyt listy kontaktów.pdb
+c:\users\paweł\documents\visual studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Odczyt listy kontaktów\Bin\Debug\AppManifest.xaml
+c:\users\paweł\documents\visual studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Odczyt listy kontaktów\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\paweł\documents\visual studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Odczyt listy kontaktów\Bin\Debug\Odczyt_listy_kontaktów_Debug_AnyCPU.xap
+c:\users\paweł\documents\visual studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Odczyt listy kontaktów\obj\Debug\App.g.cs
+c:\users\paweł\documents\visual studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Odczyt listy kontaktów\obj\Debug\MainPage.g.cs
+c:\users\paweł\documents\visual studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Odczyt listy kontaktów\obj\Debug\Odczyt listy kontaktów.g.resources
+c:\users\paweł\documents\visual studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Odczyt listy kontaktów\obj\Debug\Odczyt_listy_kontaktów.Resources.AppResources.resources
+c:\users\paweł\documents\visual studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Odczyt listy kontaktów\obj\Debug\Odczyt listy kontaktów.csproj.GenerateResource.Cache
+c:\users\paweł\documents\visual studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Odczyt listy kontaktów\obj\Debug\Odczyt listy kontaktów.dll
+c:\users\paweł\documents\visual studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Odczyt listy kontaktów\obj\Debug\Odczyt listy kontaktów.pdb
+c:\users\paweł\documents\visual studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Odczyt listy kontaktów\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,19 @@
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Skojarzenia protokołów\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Skojarzenia protokołów\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Skojarzenia protokołów\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Skojarzenia protokołów\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Skojarzenia protokołów\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Skojarzenia protokołów\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Skojarzenia protokołów\Bin\Debug\Skojarzenia protokołów.dll
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Skojarzenia protokołów\Bin\Debug\Skojarzenia protokołów.pdb
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Skojarzenia protokołów\Bin\Debug\AppManifest.xaml
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Skojarzenia protokołów\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Skojarzenia protokołów\Bin\Debug\Skojarzenia_protokołów_Debug_AnyCPU.xap
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Skojarzenia protokołów\obj\Debug\App.g.cs
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Skojarzenia protokołów\obj\Debug\MainPage.g.cs
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Skojarzenia protokołów\obj\Debug\Skojarzenia protokołów.g.resources
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Skojarzenia protokołów\obj\Debug\Skojarzenia_protokołów.Resources.AppResources.resources
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Skojarzenia protokołów\obj\Debug\Skojarzenia protokołów.csproj.GenerateResource.Cache
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Skojarzenia protokołów\obj\Debug\Skojarzenia protokołów.dll
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Skojarzenia protokołów\obj\Debug\Skojarzenia protokołów.pdb
+C:\Users\Paweł\Documents\Visual Studio 2013\Projects\Programowanie urządzeń mobilnych Windows Phone\Skojarzenia protokołów\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Minutnik (Zadanie na przypomnienia)" EntryPointType="Minutnik__Zadanie_na_przypomnienia_.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Minutnik (Zadanie na przypomnienia)" Source="Minutnik (Zadanie na przypomnienia).dll" />
+  </Deployment.Parts>
+</Deployment>
